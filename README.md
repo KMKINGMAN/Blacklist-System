@@ -1,8 +1,8 @@
 <h1 align="center">BlackList System</h1>
 <p align="center">
-  <img style="border-radius:50%;" width="300" height="300" src="https://e.top4top.io/p_1965qprez1.gif" alt="MeCodes Logo">
+  <img style="border-radius:50%;" width="300" height="300" src="https://h.top4top.io/p_1873t456n1.png" alt="kingmandev Logo">
 </p>
-<p align="center">MeCodes BlackList System</p>
+<p align="center">KINGMAN BlackList System</p>
 <p align="center">It is a bot that removes the offending member from all servers where the bot is located as a <strong>penalty</strong></p>
 <p align="center">The bot needs a <a href="https://www.mongodb.com/">MongoDB </a></p>
 <h2>How to use</h2>
