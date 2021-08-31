@@ -13,7 +13,7 @@
            |   |                                         |    |
            |   |  If there is any error, just visit the  |    |
            |   |                                         |    |
-           |   |         MeCodes Discord Server          |    |
+           |   |      KINGMANDEV Discord Server          |    |
            |   |                                         |    |
            |   |_________________________________________|    |
            |                                                  |
