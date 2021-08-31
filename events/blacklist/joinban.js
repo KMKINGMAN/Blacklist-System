@@ -3,7 +3,7 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  MeCodes BlackList System By KINGMAN    |    |
+           |   |  KINGMAN BlackList System By KINGMAN    |    |
            |   |                                         |    |
            |   |       Devloper ["Muhammad Kurkar"]      |    |
            |   |                                         |    |
