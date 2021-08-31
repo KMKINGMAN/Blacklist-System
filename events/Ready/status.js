@@ -3,7 +3,7 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  MeCodes BlackList System By KINGMAN    |    |
+           |   |  KINGMANDEV BlackList System            |    |
            |   |                                         |    |
            |   |       Devloper ["Muhammad Kurkar"]      |    |
            |   |                                         |    |
@@ -13,7 +13,7 @@
            |   |                                         |    |
            |   |  If there is any error, just visit the  |    |
            |   |                                         |    |
-           |   |         MeCodes Discord Server          |    |
+           |   |         KINGMANDEV Discord Server       |    |
            |   |                                         |    |
            |   |_________________________________________|    |
            |                                                  |
