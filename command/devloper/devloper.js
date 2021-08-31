@@ -48,7 +48,7 @@ const { MessageEmbed } = require("discord.js");
         { name: '**\❤️ Discord Server**', value: '**[kinfmandev]( https://discord.gg/kingmandev )**', inline: false },
        )
        .setImage('https://h.top4top.io/p_1873t456n1.png')
-       .setFooter('! KM » KINGMAN - MeCodes', 'https://h.top4top.io/p_1873t456n1.png');
+       .setFooter('! KM » KINGMAN - KINGMANDEV', 'https://h.top4top.io/p_1873t456n1.png');
        kmsg.channel.send(devloper)
 
     }
