@@ -9,7 +9,7 @@ const { MessageEmbed } = require("discord.js");
    run: async (client, kmsg, args, PREFIX) => {
     let commands = kmsg.client.commands.array();
     let EMBED = new MessageEmbed()
-    .setTitle(`MeCodes BlackList System`)
+    .setTitle(`KINGMANDEV BlackList System`)
     .setDescription(`**[HelpMenu](https://github.com/KMKINGMAN)**`)
     .setColor("GOLD");
     commands.forEach((cmd) => {
