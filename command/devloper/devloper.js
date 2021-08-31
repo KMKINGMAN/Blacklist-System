@@ -3,7 +3,7 @@
             /                                                \
            |    _________________________________________     |
            |   |                                         |    |
-           |   |  MeCodes BlackList System By KINGMAN    |    |
+           |   |  KMCODES BlackList System By KINGMAN    |    |
            |   |                                         |    |
            |   |       Devloper ["Muhammad Kurkar"]      |    |
            |   |                                         |    |
@@ -13,7 +13,7 @@
            |   |                                         |    |
            |   |  If there is any error, just visit the  |    |
            |   |                                         |    |
-           |   |         MeCodes Discord Server          |    |
+           |   |        KINGMANDEV Discord Server        |    |
            |   |                                         |    |
            |   |_________________________________________|    |
            |                                                  |
@@ -38,17 +38,17 @@ const { MessageEmbed } = require("discord.js");
    description: "\`لعرض معلومات الاتصال مع المطور\`",
    run: async (client, kmsg, args, PREFIX) => {
        let devloper = new MessageEmbed()
-       .setTitle(`! Me » KINGMAN`)
+       .setTitle(`! KM » KINGMAN`)
        .setDescription(`**Muhammad Kurkar**
        __**I am an undergraduate student from northeastern university**__
        `)
        .addFields(
         { name: '**\📱 PhoneNumber**', value: '+962792914245', inline: false },
-        { name: '**\📶 GitHub**', value: '**[click here]( https://github.com/MeKINGMAN )**', inline: false },
-        { name: '**\❤️ Discord Server**', value: '**[MeCodes]( https://discord.gg/2wJqGg3KY8 )**', inline: false },
+        { name: '**\📶 GitHub**', value: '**[click here]( https://github.com/kmkingman )**', inline: false },
+        { name: '**\❤️ Discord Server**', value: '**[kinfmandev]( https://discord.gg/kingmandev )**', inline: false },
        )
-       .setImage('https://e.top4top.io/p_1965qprez1.gif')
-       .setFooter('! Me » KINGMAN - MeCodes', 'https://e.top4top.io/p_1965qprez1.gif');
+       .setImage('https://h.top4top.io/p_1873t456n1.png')
+       .setFooter('! KM » KINGMAN - MeCodes', 'https://h.top4top.io/p_1873t456n1.png');
        kmsg.channel.send(devloper)
 
     }
